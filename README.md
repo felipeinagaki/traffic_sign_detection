@@ -5,6 +5,8 @@ The object detection models were: Yolov8-small, Yolov8-medium, Yolov8-nano and R
 
 As can be seen on the previous images, RTDETR-L is very sensitive, creating several false positive results.
 
+This impact the tracking model as can be seen on the image below, where the same RTDETR-L identifies a sign as 29th while the others only counted 5/6.
+![doc-image](docs/imgs/doc_im_2.png)
 A complete discussion about the results can be found in our report 
 ## Accessing the Code
 
