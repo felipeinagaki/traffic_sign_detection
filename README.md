@@ -5,9 +5,10 @@ The object detection models were: Yolov8-small, Yolov8-medium, Yolov8-nano and R
 
 As can be seen on the previous images, RTDETR-L is very sensitive, creating several false positive results.
 
-This impact the tracking model as can be seen on the image below, where the same RTDETR-L identifies a sign as 29th while the others only counted 5/6.
+This impact the tracking model as can be seen on the image below, where the same RTDETR-L identifies a traffic sign as 29th while the other models only counted 5/6.
 ![doc-image](docs/imgs/doc_im_2.png)
-A complete discussion about the results can be found in our report 
+
+A complete discussion about the results can be found in our report.
 ## Accessing the Code
 
 All code can be accessed in the `root_directory/traffic_sign_detection` directory. For example, if the root directory is `/home/user/projects`, then the code would be located at `/home/user/projects/traffic_sign_detection`.
