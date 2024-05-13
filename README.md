@@ -1,6 +1,6 @@
 # Brazilian traffic sign detection using Deep Learning
-
-
+We trained 4 distinct object detection models and applied BoT-SORT object track model. 
+The object detection models were: Yolov8-small, Yolov8-medium, Yolov8-nano and RTDETR-L
 
 ## Accessing the Code
 
