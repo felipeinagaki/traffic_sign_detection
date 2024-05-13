@@ -1,7 +1,9 @@
 # Brazilian traffic sign detection using Deep Learning
 We trained 4 distinct object detection models and applied BoT-SORT object track model. 
 The object detection models were: Yolov8-small, Yolov8-medium, Yolov8-nano and RTDETR-L
+![doc-image](imgs/doc_im_1.png)
 
+A complete discussion about the results can be found in our report 
 ## Accessing the Code
 
 All code can be accessed in the `root_directory/traffic_sign_detection` directory. For example, if the root directory is `/home/user/projects`, then the code would be located at `/home/user/projects/traffic_sign_detection`.
