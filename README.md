@@ -1,6 +1,6 @@
 # Brazilian traffic sign detection using Deep Learning
 ### Authors
-[Felipe de Oliveira](https://github.com/felipeinagaki), [Suemy Inagaki](https://github.com/suemyinagaki) and Carlos David
+[Felipe de Oliveira](https://github.com/felipeinagaki), [Suemy Inagaki](https://github.com/suemyinagaki) and [Carlos David](https://github.com/cdavidrmelo)
 
 [Paper](https://github.com/felipeinagaki/traffic_sign_detection/blob/main/docs/final-report.pdf)
 
